@@ -1,0 +1,74 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border;
+  width: 80%;
+  margin: auto;
+  padding: auto;
+  position: center;
+  top: 
+}
+
+
+
+
+main {
+  width: 90%;
+  margin: auto;
+  padding: auto;
+  position: center;
+  top: 50%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  align-content: center;
+  justify-self: center;
+  height: 200vh;
+  flex-direction: row;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca);
+  font-weight: 400;
+  font-size: 15px;
+}
+
+h2 {
+  font-family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display);
+  font-weight: 700;
+}
+
+.sedans {
+  background:hsl(31, 77%, 52%);
+  width: 33%;
+  padding: 2em;
+  height: 20%;
+}
+
+.suvs {
+  background: hsl(184, 100%, 22%);
+  width: 33%;
+  padding: 2em;
+  height: 20%;
+}
+
+.luxury {
+  background: hsl(179, 100%, 13%);
+  width: 33%;
+  padding: 2em;
+  height: 20%;
+}
+
+button {
+  position: relative;
+  text-align: center;
+  width: 150px;
+  padding: 2em;
+  border: 5px;
+  border-radius: 50px;
+  cursor: pointer;
+  color: ;
+}
+
+button:hover {
+  background: ;
+}
